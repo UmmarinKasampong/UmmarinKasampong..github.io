@@ -1,0 +1,30 @@
+{
+    "education_info" : [
+        {
+            "edu_img" : "mba-sut.png" ,
+            "edu_title" : "Bachelor Degree In Computer Engineer" ,
+            "edu_info" : "from Suranaree University of Technology , Gpax 3.10" ,
+            "edu_date" : "2019 - 2023"
+        }
+    ] ,
+
+    "work_less_show" : [
+        {
+            "work-show-img" : "sony-technology.png" ,
+            "work-show-title" : "Sony Technology In Thailand" ,
+            "work-show-info" : "Associate Engineer |" ,
+            "work-show-info-title" : "Internship" ,
+            "work-show-date" : "Nov 2022 - Mar 2023"
+        }
+    ] ,
+
+    "work_all_show" : [
+        {
+            "work-all-img" : "sony-technology.png" ,
+            "work-all-title" : "Sony Technology In Thailand" ,
+            "work-all-info" : "Associate Engineer |" ,
+            "work-all-info-title" : "Internship" ,
+            "work-all-date" : "Nov 2022 - Mar 2023"
+        }
+    ]
+}

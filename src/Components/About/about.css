@@ -1,0 +1,212 @@
+.About {
+    height: auto;
+}
+
+.about-wapper {
+    margin:  50px auto;
+    max-width: 1170px;
+    
+}
+
+
+
+/* ----------------------------------------- */
+
+
+.about-header {
+    text-align: center;
+    font-size: 30px;
+}
+
+.about-header span {
+    color: red;
+}
+
+
+/* about-info */
+
+.about-info {
+
+    margin-top: 50px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.own-info {
+    max-width: 600px;
+    width: 100%;
+
+}
+
+
+.top-info {
+    margin-bottom: 30px;
+}
+
+.top-info h2 {
+    color: #363062;
+}
+
+
+
+.center-info {
+    font-size: 18px;
+
+    line-height: 35px;
+}
+
+
+.contact-info {
+    margin-top: 30px;
+
+}
+
+
+.contact-info li  {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.contact-info li span {
+    color: #7752FE;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+/* btn-download-cv */
+
+
+.btn-download-cv {
+    display: inline-block;
+    margin-top: 30px;
+    padding: 10px 30px;
+    color: #fff;
+    background-color: #363062;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: background .5s ,border .2s , font .8s  , color .3s ease;
+}
+
+.btn-download-cv:hover {
+    border: 2px solid #363062;
+    background: transparent;
+    color: red;
+    font-size: 25px;
+}
+
+
+
+
+
+/* about-info Img */
+
+
+.person-img {
+    width: 30%;
+    height: auto;
+    border-radius: 20px;
+    filter: grayscale(50%);
+    cursor: pointer;
+    transition: transform .8s , filter .5s ease ;
+}
+
+
+.person-img:hover {
+    transform: translateY(-30px);
+    filter: grayscale(0%);
+}
+
+
+
+
+/* Responsive Web */
+
+
+@media only screen and (max-width: 1200px) {
+    .about-wapper {
+        max-width: 1000px;
+
+    }
+}
+
+
+
+
+@media only screen and (max-width: 992px) {
+    .about-wapper {
+        max-width: 800px;
+
+    }
+
+
+    
+    .about-info  {
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+
+    .own-info {
+        margin-top: 50px;
+    }
+
+
+    .person-img {
+        width: 40%;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    .about-wapper {
+        max-width: 500px;
+
+    }
+
+
+    .person-img {
+        width: 50%;
+    }
+  
+}
+
+
+
+
+@media only screen and (max-width : 600px){
+    .about-wapper {
+        max-width: 300px;
+
+    }
+
+
+    
+    .person-img {
+        width: 100%;
+    }
+
+
+    .top-info h1 {
+        font-size: 25px;
+    }
+
+    .top-info h2 {
+        margin-top: 5px;
+        font-size: 18px;
+    }
+
+ 
+}

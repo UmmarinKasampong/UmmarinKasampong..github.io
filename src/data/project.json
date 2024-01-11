@@ -1,0 +1,116 @@
+{
+
+    "projectShow" : [
+        {
+            "project-name" : "Shop for Sell Organic",
+            "project-detail" : "This WebSite I write code follow model templete by Html/Css/Js and some libary for create silde show and notification" ,
+            "project-bg" : "oganic.png" ,
+            "project-view-link" : "https://oganic-shop.onrender.com/",
+            "project-view-code" : "https://github.com/UmmarinKasampong/oganic-shop"
+        } ,
+
+        {
+            "project-name" : "Web Landing Page 1",
+          "project-detail" : "This WebSite I use templete idea from free website templete and I write code follow model templete by Vite and some libary for make feature" ,
+            "project-bg" : "landing-pang2.png" ,
+            "project-view-link" : "https://web-lernning-template-1.onrender.com/",
+            "project-view-code" : "https://github.com/UmmarinKasampong/web-template-1"
+        } ,
+
+        {
+            "project-name" : "Web Landing Page 2",
+           "project-detail" : "This WebSite I use templete idea from free website templete and I write code follow model templete by Vite and use another libary for make feature" ,
+            "project-bg" : "landing-pang1.png" ,
+            "project-view-link" : "https://web-lernning-template-2.onrender.com/",
+            "project-view-code" : "https://github.com/UmmarinKasampong/web-template-2"
+        }
+
+        ,
+
+        {
+            "project-name" : "Web Landing Page 3",
+            "project-detail" : "This WebSite I use templete idea from free website templete and I write code follow model templete by Vite and use another libary for make feature" ,
+            "project-bg" : "landing-pang3.png" ,
+            "project-view-link" : "https://web-lernning-template-new-3.onrender.com/",
+            "project-view-code" : "https://github.com/UmmarinKasampong/web-template-new-3"
+        }
+
+        ,
+
+        {
+            "project-name" : "Web Landing Page 4",
+            "project-detail" : "This WebSite I use templete idea from free website and I write code follow model templete by Vite and Swiper for make sides" ,
+            "project-bg" : "landing-pang4.png" ,
+            "project-view-link" : "https://web-lernning-template-4.onrender.com/",
+            "project-view-code" : "https://github.com/UmmarinKasampong/web-template-4"
+        }
+
+        
+        ,
+
+        {
+            "project-name" : "Food Recipes",
+            "project-detail" : "This WebSite I Lern how to use Vue js for create food recipes page and use Tailwind css for style page and Data i get from free api" ,
+            "project-bg" : "Food-recipes.png" ,
+            "project-view-link" : "https://thunderous-biscuit-ebd22a.netlify.app/",
+            "project-view-code" : "https://github.com/UmmarinKasampong/Food-Recipes"
+        }
+
+    ],
+    
+    "projectWeb": [
+        {
+            "project-name" : "Shop for Sell Organic",
+            "project-detail" : "This WebSite I write code follow model templete by Html/Css/Js and some libary for create silde show and notification" ,
+            "project-bg" : "oganic.png" ,
+            "project-view-link" : "https://oganic-shop.onrender.com/",
+            "project-view-code" : "https://github.com/UmmarinKasampong/oganic-shop"
+        } ,
+
+        {
+            "project-name" : "Web Landing Page 1",
+           "project-detail" : "This WebSite I use templete idea from free website templete and I write code follow model templete by Vite and use another libary for make feature" ,
+            "project-bg" : "landing-pang2.png" ,
+            "project-view-link" : "https://web-lernning-template-1.onrender.com/",
+            "project-view-code" : "https://github.com/UmmarinKasampong/web-template-1"
+        } ,
+
+        {
+            "project-name" : "Web Landing Page 2",
+            "project-detail" : "This WebSite I use templete idea from free website templete and I write code follow model templete by Vite and some libary for make feature" ,
+            "project-bg" : "landing-pang1.png" ,
+            "project-view-link" : "https://web-lernning-template-2.onrender.com/",
+            "project-view-code" : "https://github.com/UmmarinKasampong/web-template-2"
+        }
+
+        ,
+
+        {
+            "project-name" : "Web Landing Page 3",
+            "project-detail" : "This WebSite I use templete idea from free website templete and I write code follow model templete by Vite and use another libary for make feature" ,
+            "project-bg" : "landing-pang3.png" ,
+            "project-view-link" : "https://web-lernning-template-new-3.onrender.com/",
+            "project-view-code" : "https://github.com/UmmarinKasampong/web-template-new-3"
+        }
+
+        ,
+
+        {
+            "project-name" : "Web Landing Page 4",
+            "project-detail" : "This WebSite I use templete idea from free website and I write code follow model templete by Vite and Swiper for make sides" ,
+            "project-bg" : "landing-pang4.png" ,
+            "project-view-link" : "https://web-lernning-template-4.onrender.com/",
+            "project-view-code" : "https://github.com/UmmarinKasampong/web-template-4"
+        }
+        
+        ,
+
+        {
+            "project-name" : "Food Recipes",
+            "project-detail" : "This WebSite I Lern how to use Vue js for create food recipes page and use Tailwind css for style page and Data i get from free api" ,
+            "project-bg" : "Food-recipes.png" ,
+            "project-view-link" : "https://thunderous-biscuit-ebd22a.netlify.app/",
+            "project-view-code" : "https://github.com/UmmarinKasampong/Food-Recipes"
+        }
+    ]
+}

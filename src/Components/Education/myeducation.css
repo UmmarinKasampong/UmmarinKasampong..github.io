@@ -1,0 +1,83 @@
+.education {
+    height: auto;
+    background-color: #EEF5FF;
+}
+
+
+.education-container {
+    max-width: 1170px;
+    margin: 0 auto;
+
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    flex-direction: column;
+}
+
+
+.edu-header {
+    margin-top: 30px;
+    font-size: 30px;
+
+
+    display: flex;
+}
+
+.edu-header span {
+    color: #2B3499;
+    margin-left: 10px;
+}
+
+
+.edu-contents {
+    margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+/* Responsive Web */
+
+
+@media only screen and (max-width: 1200px) {
+    .education-container {
+        max-width: 1000px;
+
+    }
+}
+
+
+
+@media only screen and (max-width: 992px) {
+    .education-container {
+        max-width: 800px;
+
+    }
+
+  
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    .education-container {
+        max-width: 500px;
+
+    }
+
+}
+
+
+
+
+@media only screen and (max-width : 600px){
+    .education-container {
+        max-width: 300px;
+
+    }
+}

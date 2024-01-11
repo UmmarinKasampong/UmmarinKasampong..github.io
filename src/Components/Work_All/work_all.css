@@ -1,0 +1,46 @@
+.work_all {
+    background-color: #EE6F57;
+    height: auto;
+}
+
+.work-all-container {
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 100px 0;
+    
+}
+
+
+
+.work-all-header {
+    text-align: center;
+    font-size: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.work-all-header h1 {
+    display: flex;
+    align-items: center;
+    color: #fff;
+}
+
+.work-all-header h1 span {
+    margin-left: 10px;
+    color: #00334E;
+}
+
+
+
+
+/* work-img */
+
+.work-all-contents {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    flex-direction: column;
+}

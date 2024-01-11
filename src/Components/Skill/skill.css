@@ -1,0 +1,150 @@
+.skill-page {
+    background-color: #1640D6;
+}
+
+
+.skill-container {
+    max-width: 1170px;
+    height: auto;
+    padding: 50px 0;
+    margin: 0 auto;
+}
+
+
+/* skill-header */
+
+.skill-container .skill-header {
+    display: inline-block;
+ 
+    text-align: center;
+
+    width: 100%;
+}
+.skill-header h1 {
+    font-size: 30px;
+   color: #fff;
+
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+}
+
+
+.skill-header h1 span {
+    color: #FFC436;
+}
+
+
+
+/* skill-grid */
+.skill {
+    max-width: 1100px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #0C356A;
+    padding: 30px;
+
+
+    border-radius: 10px;
+}
+
+.skill-grid {
+   
+    display: grid;
+    grid-template-columns: repeat(4 , auto);
+
+    grid-gap: 30px;
+
+}
+
+
+
+
+/* skill-menu */
+
+
+.skill-menu {
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.skill-menu li a {
+    padding: 10px 30px;
+    background: #fff;
+    color: #000;
+    font-weight: 800;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: font .3s , background .2s , color .3s ease-in-out;
+}
+
+.skill-menu li a:hover {
+    font-size: 20px;
+    background: #B31312;
+    color: #fff;
+  
+}
+
+
+.skill-menu li a.active {
+    font-size: 20px;
+    background: #B31312;
+    color: #fff;
+}
+
+
+
+
+/* Responsive Web */
+
+
+@media only screen and (max-width: 1200px) {
+    .skill-container {
+        max-width: 1000px;
+
+    }
+}
+
+
+
+@media only screen and (max-width: 992px) {
+    .skill-container {
+        max-width: 800px;
+
+    }
+
+  
+}
+
+
+@media only screen and (max-width: 768px) {
+
+    .skill-container {
+        max-width: 500px;
+
+    }
+
+
+    .skill-grid {
+        grid-template-columns: repeat(2 , auto);
+    }
+
+}
+
+
+
+
+@media only screen and (max-width : 600px){
+    .skill-container {
+        max-width: 600px;
+
+    }
+
+
+    
+}

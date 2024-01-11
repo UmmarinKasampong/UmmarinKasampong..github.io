@@ -1,0 +1,63 @@
+{
+    "programing_skill" : [
+        {
+            "skill-img" : "react.png" ,
+            "skill-name" : "React js" , 
+            "star-rate" : "3"
+        } ,
+
+        {
+            "skill-img" : "html.png" ,
+            "skill-name" : "HTML" , 
+            "star-rate" : "4"
+        } ,
+
+        {
+            "skill-img" : "css-3.png" ,
+            "skill-name" : "Css" , 
+            "star-rate" : "3"
+        } ,
+
+        {
+            "skill-img" : "js.png" ,
+            "skill-name" : "Java script" , 
+            "star-rate" : "3"
+        } ,
+
+        {
+           "skill-img" : "nodejs.png" ,
+            "skill-name" : "Node Js" , 
+            "star-rate" : "2"
+        } ,
+
+        {
+            "skill-img" : "php.png" ,
+            "skill-name" : "PHP" , 
+            "star-rate" : "3"
+        } ,
+
+        {
+            "skill-img" : "sql-server.png" ,
+            "skill-name" : "SQL" , 
+            "star-rate" : "3"
+        } ,
+
+        {
+            "skill-img" : "c-sharp.png" ,
+            "skill-name" : "C#" , 
+            "star-rate" : "2"
+        },
+
+        {
+            "skill-img" : "vue.png" ,
+            "skill-name" : "Vue js" , 
+            "star-rate" : "2"
+        } ,
+
+        {
+            "skill-img" : "tailwind_css.png" ,
+            "skill-name" : "Tailwind Css" , 
+            "star-rate" : "1"
+        }
+    ]
+}
