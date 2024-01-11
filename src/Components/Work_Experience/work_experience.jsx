@@ -27,7 +27,7 @@ export default function work_experience() {
 
             
             <div className="work-footer-btn">
-              <a href="./Work-Page" className='btn-see-detail'>View All</a>
+              <a href="./#/Work-Page" className='btn-see-detail'>View All</a>
             </div>
         </div>
     </section>

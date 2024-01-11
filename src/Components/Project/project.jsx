@@ -24,7 +24,7 @@ export default function project() {
             </div>
 
             <div className="project-footer-btn">
-              <a href="./Project-Page" className='btn-see-detail'>View All</a>
+              <a href="./#/Project-Page" className='btn-see-detail'>View All</a>
             </div>
    
         </div>
