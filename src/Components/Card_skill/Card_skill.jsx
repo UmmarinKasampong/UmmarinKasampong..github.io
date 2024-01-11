@@ -29,13 +29,13 @@ export default function Card_skill({dataSend}) {
                     return (
                         <div className="skill-item">
                             <div className="main-show">
-                                <img src={"./src/assets/image/icon/" + data['skill-img']} alt="" className="icon-main-show" />
+                                <img src={"/assets/image/icon/" + data['skill-img']} alt="" className="icon-main-show" />
                                 {/* <box-icon type='logo' color='#ffff' size='lg' name={data['skill-img']}></box-icon> */}
                                 <h2>{data['skill-name']}</h2>
                             </div>
 
                             <div className="hover-show">
-                                <img src={"./src/assets/image/icon/" + data['skill-img']} alt="" className="icon-hide-show" />
+                                <img src={"/assets/image/icon/" + data['skill-img']} alt="" className="icon-hide-show" />
                                 {/* <box-icon type='logo' color='#ffff' size='lg' name={data['skill-img']}></box-icon> */}
                                 <div className="star-rate">
                                     {starGen(parseInt(data['star-rate']))}

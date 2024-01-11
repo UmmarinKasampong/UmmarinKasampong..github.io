@@ -10,7 +10,7 @@ export default function Card_education({dataSend}) {
              return (
                 
                 <div className="edu-item xyz-nested">
-                        <img src={"./src/assets/image/education/" + data['edu_img']} alt="" className="edu-img" />
+                        <img src={"/assets/image/education/" + data['edu_img']} alt="" className="edu-img" />
                         <div className="edu-info">
                             <h1>{data['edu_title']}</h1>
                             <span>{data['edu_info']}</span>

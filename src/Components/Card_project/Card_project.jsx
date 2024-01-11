@@ -6,7 +6,7 @@ export default function Card_project({dataSend}) {
         {
                 dataSend.map((data)=>{
                   return (
-                      <div className="project-item xyz-nested" style={{backgroundImage:`url(../src/assets/image/project/${data['project-bg']})`}}>
+                      <div className="project-item xyz-nested" style={{backgroundImage:`url(/assets/image/project/${data['project-bg']})`}}>
 
                       <div className="card-project-detail">
                           <div className="card-header">

@@ -3,7 +3,7 @@ import './work_experience.css'
 
 import Card_work from '../Card_work/Card_work'
 import Work_less from '../../data/self_info.json'
-import data from '../../assets/image/work/sony-technology.png'
+import data from '/assets/image/work/sony-technology.png'
 export default function work_experience() {
   return (
     <section className='work_experience' id='works_show'>

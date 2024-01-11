@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css';
-import Person from '../../assets/image/ummarin.jpg'
+import Person from '/assets/image/ummarin.jpg'
 
 import DownloadResume from '../../data/resume/resume.pdf'
 export default function about() {

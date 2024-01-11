@@ -2,8 +2,8 @@ import React, { useState } from 'react'
 import './banner.css'
 import { Link } from 'react-scroll'
 import { Link as Hyperlink } from 'react-router-dom'
-import video from '../../assets/video/bg_main.mp4'
-import codeImage from '../../assets/image/code-snappet.png'
+import video from '/assets/video/bg_main.mp4'
+import codeImage from '/assets/image/code-snappet.png'
 import TypeIt from "typeit-react";
 import 'boxicons';
 
