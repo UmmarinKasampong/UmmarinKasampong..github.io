@@ -2,7 +2,7 @@ import React from 'react'
 import './about.css';
 import Person from '/assets/image/ummarin.jpg'
 
-import DownloadResume from '../../data/resume/resume.pdf'
+import DownloadResume from '../../data/resume/My_resume.pdf'
 export default function about() {
   return (
     <section className='About' id='about'>
