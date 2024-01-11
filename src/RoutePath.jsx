@@ -11,8 +11,8 @@ export default function RoutePath() {
       
         <Routes>
           <Route path="/" element={<App/>} />
-          <Route path="/Project-Page" element={<Project_page/>} />
-          <Route path="/Work-Page" element={<Work_page/>} />
+          <Route path="/#/Project-Page" element={<Project_page/>} />
+          <Route path="/#/Work-Page" element={<Work_page/>} />
         </Routes>
       
     </HashRouter>
